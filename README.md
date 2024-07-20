@@ -14,11 +14,11 @@ This project is a backend system for a homestay reservation platform, similar to
 - **PostGIS**: Spatial database extender for PostgreSQL.
 ## Getting Started
 Prerequisites
-**Java 17**
-**Spring boot 3**
-**Maven**
-**PostgreSQL**
-**PostGis**
+- **Java 17**
+- **Spring boot 3**
+- **Maven**
+- **PostgreSQL**
+- **PostGis**
 Installation
 1. Clone the repository:
 ```
