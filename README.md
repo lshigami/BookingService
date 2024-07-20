@@ -23,7 +23,7 @@ Installation
 1. Clone the repository:
 ```
 git clone https://github.com/lshigami/BookingService.git
-git cd proj
+git cd project
 ```
 2. Build and run the application:
 ```
